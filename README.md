@@ -18,6 +18,11 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/meowcat767/unhappy-refrain-for-microbit** and click import
 
+
+## Dependancies
+This project needs **pxt-microbit-nerds** to run.
+[Get it Here!](https://github.com/63rabbits/pxt-microbit-nerds)
+
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
